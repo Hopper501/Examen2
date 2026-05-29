@@ -7,22 +7,30 @@ table{
     font-style: normal;
 }
 
-section{
+.container{
+    text-align: center;
     height: 100%;
-    width: 100%;
+    width: 60%;
     background-color: #23a7b1;
     border-color: #042a2d;
-    border-style: ridge;
     border-width: 8px;
-    align-items: center;
+    border-style: solid;
+    margin: auto;
+    margin-right: auto;
+    margin-left: auto;
+    align-self: center;
+    border-radius: 40px;
+}
+    
 td{
     color: rgb(0, 0, 0);
     font-size: 20px;
     font-family: Arial;
 }
 
-button{
+.button{
     background-color: azure;
     text-align: center;
-    font-size: 80%;
+    font-size: 200%;
+    align-items: left ;
 }
