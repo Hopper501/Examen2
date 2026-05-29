@@ -1,0 +1,28 @@
+table{
+    height: 50%;
+    width: 100%;
+    border-collapse: collapse;
+    align-self: center;
+    background-color: #6246b6;
+    font-style: normal;
+}
+
+section{
+    height: 100%;
+    width: 100%;
+    background-color: #23a7b1;
+    border-color: #042a2d;
+    border-style: ridge;
+    border-width: 8px;
+    align-items: center;
+td{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: Arial;
+}
+
+button{
+    background-color: azure;
+    text-align: center;
+    font-size: 80%;
+}
